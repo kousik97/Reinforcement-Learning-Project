@@ -1,5 +1,7 @@
 # Reinforcement-Learning-Project
 Algorithmic trading using RL - Project @ IIT-M
+
+
 The project evaluates the efficiency of deep-q-networks in
 the task of automated trading. A MDP formulation of the trading task
 is proposed and the optimal action function is learnt using a neural net-
